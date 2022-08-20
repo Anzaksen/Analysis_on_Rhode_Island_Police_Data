@@ -1,6 +1,7 @@
 # Analysis_on_Rhode_Island_Police_Data_on_Drivers
 Police data  on Rhode Island was downloaded from [stanford open policing](https://openpolicing.stanford.edu/data/) and an analyis was conducted on it.
-Details on it below:
+I cleaned and filtered the dataset to obtain the data necessary data for my analysis and viualized the data using bar and line plots to gain interesting views on the data and then summarised the data based on the analysis
+Details on the original dataset below:
 
 ## Statewide, RI
 ### 2005-01-02 to 2015-12-31
@@ -154,6 +155,4 @@ Details on it below:
   (says whether searches and frisks were of the driver, passenger, or vehicle),
   `Duration` (A/B/C/NA), `AdditionalOccupants`, `Road` (I/S/N/NA), `PlateType`,
   `PriorRecord` (Y/N/T/NA), `ConsentRequested`.
-  
-  #### As obtained from the stanford open policing website
-  I cleaned and filtered the dataset to obtain the data necessary data for my analysis and viualized the data using bar and line plots to gain interesting views on the data and then summarised the data based on the analysis
+
