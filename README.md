@@ -1,7 +1,7 @@
 # Analysis_on_Rhode_Island_Police_Data_on_Drivers
-Police data  on Rhode Island was downloaded from [stanford open policing](https://openpolicing.stanford.edu/data/) and an analyis was conducted on it.
-I cleaned and filtered the dataset to obtain the data necessary data for my analysis and viualized the data using bar and line plots to gain interesting views on the data and then summarised the data based on the analysis
-Details on the original dataset below:
+* Police data  on Rhode Island was downloaded from [stanford open policing](https://openpolicing.stanford.edu/data/) and an analyis was conducted on it.
+* The dataset was cleaned and filtered to obtain the data necessary data for the analysis, it was viualized using bar and line plots to gain meaningful insights and then a light summary was made based on the insights.
+### Details on the original dataset below:
 
 ## Statewide, RI
 ### 2005-01-02 to 2015-12-31
